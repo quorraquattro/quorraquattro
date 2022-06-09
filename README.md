@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quorraquattro
 - 👀 I’m interested in Software and Web Development
-- 🌱 I’m currently learning ASP.net Core
+- 🌱 I’m currently learning ASP.net Core and ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
